@@ -1,8 +1,8 @@
 export default function() {
   return [
-    { title: 'JavaScript the good parts' },
-    { title: 'Harry Potter' },
-    { title: 'Lord of the rings' },
-    { title: 'That used to be us' }
+    { title: 'JavaScript the good parts', pages: 101 },
+    { title: 'Harry Potter', pages: 300 },
+    { title: 'Lord of the rings', pages: 300 },
+    { title: 'That used to be us', pages: 400 }
   ];
 }
